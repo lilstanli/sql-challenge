@@ -1,4 +1,8 @@
-﻿CREATE TABLE Departments (
+﻿/*
+SQL CHALLENGE WEEK 9 TABLE SCHEMATA
+*/
+
+CREATE TABLE Departments (
     dept_no varchar(20) PRIMARY KEY,
     dept_name varchar(50)
 );
